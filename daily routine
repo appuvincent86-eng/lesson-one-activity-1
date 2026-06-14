@@ -1,0 +1,17 @@
+print("wake up at 6:30")
+#getting up
+print("go to the bathroom")
+#freshening up
+print("have breakfast")
+#eating
+print("go to school \n")
+#study
+print("come back home")
+#hometime
+print("have lunch")
+#lunchtime
+print("have some fun")
+#playtime
+print("have dinner")
+#dinnertime
+print("go to sleep")
