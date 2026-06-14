@@ -1,0 +1,1 @@
+print("hello world good morning",19*105)
