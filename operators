@@ -1,0 +1,9 @@
+print("hi")
+amount=int(input("enter the amount:"))
+note1=amount//100
+note2=(amount%100)//50
+note3=(amount%100%50)//10
+print("ruppee 100note:", note1)
+print("ruppee 50note:", note2)
+print("ruppee 10note:", note3)
+
