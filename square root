@@ -1,0 +1,5 @@
+amount=int(input("enter the amount:"))
+square_root=amount**0.5
+print("the square root of", amount, "is", square_root)
+name=input("enter your name:")
+print("bye", name)
