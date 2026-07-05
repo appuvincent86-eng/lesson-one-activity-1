@@ -1,0 +1,8 @@
+num=int(input("enter number"))
+if num>0:
+    print("positive number")
+else:
+    print("negative number")
+ask=str(input("enter name"))
+if ask.startswith("v"):
+    print("hi",ask)
