@@ -1,0 +1,3 @@
+# in and not in operators
+abc="i love fortnite"
+print("fortnite" not in abc)

@@ -1,0 +1,8 @@
+# ASCII value example
+
+char = 'A'
+print("Character:", char)
+print("ASCII value using ord():", ord(char))
+
+code = 65
+print("Character from ASCII value using chr():", chr(code))

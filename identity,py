@@ -1,0 +1,6 @@
+vr=[12, 0, 9]
+rv=[12, 0, 9]
+rvvr=vr
+print(vr is rv) # false
+print(vr is not rvvr) # false
+print(vr==rv) # true

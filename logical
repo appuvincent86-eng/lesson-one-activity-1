@@ -1,0 +1,9 @@
+v=10
+k=24
+b=40
+if v and k and b:
+    print("All variables are non-zero and truthy.")
+elif v or k or b:
+    print("At least one variable is non-zero and truthy.")
+else:
+    print("All variables are zero or falsy.")
