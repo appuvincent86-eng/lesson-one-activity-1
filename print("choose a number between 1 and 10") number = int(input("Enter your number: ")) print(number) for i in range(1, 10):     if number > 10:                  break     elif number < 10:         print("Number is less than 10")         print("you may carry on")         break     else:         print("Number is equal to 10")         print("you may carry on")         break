@@ -1,0 +1,15 @@
+print("choose a number between 1 and 10")
+number = int(input("Enter your number: "))
+print(number)
+for i in range(1, 10):
+    if number > 10:
+        
+        break
+    elif number < 10:
+        print("Number is less than 10")
+        print("you may carry on")
+        break
+    else:
+        print("Number is equal to 10")
+        print("you may carry on")
+        break
