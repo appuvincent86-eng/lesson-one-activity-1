@@ -1,0 +1,4 @@
+my_vvvvvvvvvvvvvvvvvverrrrrrrrrrrrrrrrrrrrryyyyyyyyyyyyyyyyyyyyyyyyyycccccccccccoooooooooooooooooooooooooooooooooooooooooooooooooool_dict = {2:3, 4:5, 6:7, 8:9, 10:11}
+print(my_vvvvvvvvvvvvvvvvvverrrrrrrrrrrrrrrrrrrrryyyyyyyyyyyyyyyyyyyyyyyyyycccccccccccoooooooooooooooooooooooooooooooooooooooooooooooooool_dict)
+mycooldad_dict = {i: i*2 for i in my_vvvvvvvvvvvvvvvvvverrrrrrrrrrrrrrrrrrrrryyyyyyyyyyyyyyyyyyyyyyyyyycccccccccccoooooooooooooooooooooooooooooooooooooooooooooooooool_dict}
+print(mycooldad_dict)
