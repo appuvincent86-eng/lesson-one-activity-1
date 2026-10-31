@@ -1,0 +1,7 @@
+class gaming:
+    type = "rpg"
+    genre = "adventure"
+    name = "Fc 27"
+    print(name)
+    ...
+ob = gaming()
